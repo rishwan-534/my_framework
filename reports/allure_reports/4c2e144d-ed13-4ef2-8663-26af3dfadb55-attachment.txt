@@ -1,0 +1,3 @@
+<pages.secure_area_page.SecureAreaPage object at 0x000001E09E0FD940>
+displayed
+Assertion Passed
